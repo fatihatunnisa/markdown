@@ -1,0 +1,17 @@
+###### This is H6 text
+##### This is H5 text
+#### This is H4 text
+### This is H3 text
+## This is H2 text
+# This is H1 text
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
